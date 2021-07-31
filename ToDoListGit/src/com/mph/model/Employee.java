@@ -2,6 +2,11 @@ package com.mph.model;
 
 public class Employee {
 
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	private int empno;
 	private String empname;
 
