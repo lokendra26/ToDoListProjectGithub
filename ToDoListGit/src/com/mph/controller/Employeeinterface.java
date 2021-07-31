@@ -1,5 +1,7 @@
 package com.mph.controller;
 
-public interface Employeeinterface {
+import java.util.List;
 
+public interface Employeeinterface {
+	public List addEmployee();
 }
